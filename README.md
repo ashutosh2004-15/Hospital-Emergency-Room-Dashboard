@@ -1,1 +1,60 @@
-# Hospital-Emergency-Room-Dashboard
+# 🏥 Hospital Emergency Room Dashboard - Excel (Power Query + Power Pivot)
+
+An **interactive Excel dashboard** built for analyzing and improving emergency room performance using **Power Query**, **Power Pivot**, and Excel visualization tools.
+
+This project provides data-driven insights to support hospital teams in identifying operational inefficiencies and enhancing patient care outcomes.
+
+---
+
+## 📊 Features
+
+- **Patient Admission Status**  
+  View the percentage and count of admitted vs. not admitted patients.
+
+- **Timeliness**  
+  Visualizes how many patients were seen within 30 minutes.
+
+- **Gender Analysis**  
+  Compares patient distribution by gender.
+
+- **Age Group Distribution**  
+  Groups patients by age for demographic insights.
+
+- **Departmental Referrals**  
+  Tracks which hospital departments patients are most often referred to.
+
+- **Key Metrics**  
+  - Total number of patients  
+  - Average wait time  
+  - Patient satisfaction score  
+
+---
+
+## 🛠️ Built With
+
+- Microsoft Excel  
+- Power Query  
+- Power Pivot  
+- Interactive Pivot Charts  
+- Slicers & Data Model
+
+---
+
+## 📽️ Demo
+
+Watch the video demo of the interactive dashboard:  
+👉 [Insert YouTube or LinkedIn Video Link]
+
+---
+
+ **Explore the Dashboard**
+Use the slicers to filter by month and year, and interact with charts to see insights change dynamically.
+
+---
+## 🙋‍♂️ About Me
+
+I’m passionate about data and love turning raw numbers into clear, actionable insights. This project is part of my ongoing journey to build impactful, business-ready analytics using everyday tools like Excel.
+
+📫 Let's connect:
+- LinkedIn: [Ashutosh Kumar Jaln](https://www.linkedin.com/in/ashutoshjalan-/)
+- 
