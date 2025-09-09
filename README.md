@@ -43,7 +43,7 @@ This project provides data-driven insights to support hospital teams in identify
 ## 📽️ Demo
 
 Watch the video demo of the interactive dashboard:  
-👉 [Insert YouTube or LinkedIn Video Link]
+👉 [https://www.linkedin.com/posts/ashutoshjalan-_exceldashboard-powerquery-powerpivot-activity-7371086184053284864-yOTJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtN0y8BR-RYZDfsGkw78DBBtSE63Lj7P3k]
 
 
  **Explore the Dashboard**
