@@ -61,5 +61,5 @@ Watch the video demo of the interactive dashboard:
 I’m passionate about data and love turning raw numbers into clear, actionable insights. This project is part of my ongoing journey to build impactful, business-ready analytics using everyday tools like Excel.
 
 📫 Let's connect:
-- LinkedIn: [Ashutosh Kumar Jaln](https://www.linkedin.com/in/ashutoshjalan-/)
+- LinkedIn: [Ashutosh Kumar Jalan](https://www.linkedin.com/in/ashutoshjalan-/)
 
