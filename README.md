@@ -46,8 +46,15 @@ Watch the video demo of the interactive dashboard:
 👉 [https://www.linkedin.com/posts/ashutoshjalan-_exceldashboard-powerquery-powerpivot-activity-7371086184053284864-yOTJ?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADtN0y8BR-RYZDfsGkw78DBBtSE63Lj7P3k]
 
 
- **Explore the Dashboard**
-Use the slicers to filter by month and year, and interact with charts to see insights change dynamically.
+## 📊 Using the Dashboard
+
+- You can open `Dashboard.xlsx` directly and explore the interactive dashboard.
+- The workbook already contains the cleaned data snapshot (through Pivot Tables), so you don’t need the raw dataset just to view it.
+- If you want to **refresh or reproduce the cleaning steps**:
+  1. Download the full dataset (Hospital Emergency Room Data).
+  2. update the Power Query source path (or parameter) inside Excel.
+  3. Then click **Data → Refresh All** to reload with the full data.
+
 
 ## 🙋‍♂️ About Me
 
